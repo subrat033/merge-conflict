@@ -12,7 +12,7 @@ Initial Security()
 
 new patch fix()3yy
 {
-  security fix has been  Function()
+  security fix has been made  Function()
 }
 
 }
